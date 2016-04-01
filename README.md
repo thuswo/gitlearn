@@ -1,2 +1,2 @@
 # gitlearn
-git学习小仓库
+Git练习小仓库
